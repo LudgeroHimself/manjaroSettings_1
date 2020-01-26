@@ -1,0 +1,5 @@
+sudo chmod 700 filename
+sudo chown root:root filename
+sudo caja
+sudo chmod 777 filename
+sudo chown ludgero:ludgero filename

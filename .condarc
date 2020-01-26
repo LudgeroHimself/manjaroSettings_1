@@ -1,0 +1,7 @@
+channels:
+  - defaults
+ssl_verify: true
+auto_activate_base: true
+auto_update_conda: true
+changeps1: false
+default_python:
